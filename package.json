@@ -1,0 +1,23 @@
+{
+    "name": "winston-wrapper",
+    "version": "0.1.0",
+    "description": "A simple winston wrapper",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ranto2012/winston-wrapper"
+    },
+    "keywords": [
+        "logger",
+        "log"
+    ],
+    "author": "ran",
+    "license": "MIT",
+    "dependencies": {
+        "@types/node": "^14.0.14",
+        "@types/winston": "^2.4.4",
+        "typescript": "^3.9.5",
+        "winston": "^3.3.3",
+        "winston-daily-rotate-file": "^4.5.0"
+    }
+}

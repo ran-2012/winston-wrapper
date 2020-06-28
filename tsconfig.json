@@ -1,0 +1,45 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": false,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "alwaysStrict": true,
+        "charset": "utf8",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "inlineSourceMap": false,
+        "importHelpers": true,
+        "locale": "zh-CN",
+        "module": "None",
+        "moduleResolution": "node",
+        "newLine": "LF",
+        "noImplicitAny": false,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noEmitOnError": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "noFallthroughCasesInSwitch": true,
+        "outDir": "build",
+        "preserveConstEnums": true,
+        "pretty": true,
+        "removeComments": false,
+        "skipLibCheck": true,
+        "skipDefaultLibCheck": true,
+        "sourceMap": true,
+        "strictPropertyInitialization": false,
+        "strictBindCallApply": true,
+        "strictFunctionTypes": true,
+        "target": "es2019",
+        "types": [
+            "node"
+        ]
+    },
+    "include": [
+        "./**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
